@@ -1,0 +1,2730 @@
+[
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Chemistry, Stanford University, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Chemistry, Stanford University, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Anesthesiology, Perioperative & Pain Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Anesthesiology, Perioperative & Pain Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.",
+    "annotated_name": "Chan Zuckerberg Biohub"
+  },
+  {
+    "listed": "Transgenic, Knockout and Tumor model Center (TKTC), Cancer Institute, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Behavioral and Functional Neuroscience Laboratory, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Obstetrics and Gynecology, University Hospital, Bern, Switzerland.",
+    "annotated_name": "University Hospital, Bern, Switzerland"
+  },
+  {
+    "listed": "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA 30322, USA.",
+    "annotated_name": "Emory University"
+  },
+  {
+    "listed": "Department of Chemistry, Stanford University, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.",
+    "annotated_name": "Chan Zuckerberg Biohub"
+  },
+  {
+    "listed": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.",
+    "annotated_name": "Chan Zuckerberg Biohub"
+  },
+  {
+    "listed": "Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.",
+    "annotated_name": "Chan Zuckerberg Biohub"
+  },
+  {
+    "listed": "Vollum Institute, Oregon Health and Science University, Portland, OR 97239, USA.",
+    "annotated_name": "Oregon Health and Science University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Anesthesiology, Perioperative & Pain Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Anesthesiology, Perioperative & Pain Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Chemistry, Stanford University, Stanford, CA 94305, USA. ",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA 94305, USA. ",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of HostMicrobe Interactions, St. Jude Children's Research Hospital, Memphis, TN 38105, USA",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology, Anatomy, Physiology and Pharmacology, La Trobe Institute for Molecular Science, La Trobe University, Bundoora, VIC 3086, Australia.",
+    "annotated_name": "La Trobe University"
+  },
+  {
+    "listed": "Department of HostMicrobe Interactions, St. Jude Children's Research Hospital, Memphis, TN 38105, USA.",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Shanghai Public Health Clinical Centre and Institutes of Biomedical Sciences, Key Laboratory of Medical Molecular Virology of Ministry of Education/Health, Shanghai Medical College, Fudan University, Shanghai 201508, China.",
+    "annotated_name": "Fudan University"
+  },
+  {
+    "listed": "Shanghai Public Health Clinical Centre, Fudan University, Shanghai 201508, China.",
+    "annotated_name": "Fudan University"
+  },
+  {
+    "listed": "Division of Immunology, Boston Children's Hospital, Harvard Medical School, Boston, MA 02115, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Anesthesiology, Critical Care, and Pain Medicine, Boston Children's Hospital and Department of Anaesthesia, Harvard Medical School, Boston, MA 02115, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Melbourne Mass Spectrometry and Proteomics Facility, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, VIC 3052, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Melbourne Mass Spectrometry and Proteomics Facility, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, VIC 3052, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Infection and Immunity Program, Department of Biochemistry and Molecular Biology, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia.",
+    "annotated_name": "Monash University"
+  },
+  {
+    "listed": "Walter Eliza Hall Institute of Medical Research, Parkville, VIC 3052, Australia",
+    "annotated_name": "Walter Eliza Hall Institute of Medical Research"
+  },
+  {
+    "listed": "Department of Anatomy and Physiology, University of Melbourne, Parkville, VIC 3010, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Anatomy and Comparative Pathology and Toxicology, Pathology and Immunology Group, University of Córdoba, International Excellence Agrifood Campus \"CeiA3\", 14014 Córdoba, Spain.",
+    "annotated_name": "University of Córdoba"
+  },
+  {
+    "listed": "Department of Pediatrics, University of Tennessee Health Science Center, Memphis, TN 38163, USA.",
+    "annotated_name": "University of Tennessee"
+  },
+  {
+    "listed": "Department of Infectious Diseases, St. Jude Children's Research Hospital, Memphis, TN 38105, USA.",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Department of Molecular, Cell & Developmental Biology, University of California, Santa Cruz, Santa Cruz, CA 95064, USA.",
+    "annotated_name": "University of California, Santa Cruz"
+  },
+  {
+    "listed": "Department of HostMicrobe Interactions, St. Jude Children's Research Hospital, Memphis, TN 38105, USA.",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Cardiothoracic Surgery, Royal Children's Hospital, University of Melbourne, Melbourne Centre for Cardiovascular Genomics and Regenerative Medicine, Parkville, VIC 3052, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "School of Health Sciences and School of Medicine, University of Tasmania, Launceston, TAS 7248, Australia",
+    "annotated_name": "University of Tasmania"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Walter Eliza Hall Institute of Medical Research, Parkville, VIC 3052, Australia",
+    "annotated_name": "Walter Eliza Hall Institute of Medical Research"
+  },
+  {
+    "listed": "Center for Infectious Diseases Research, St. Jude Children's Research Hospital, Memphis, TN 38105, USA",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Department of Pediatrics, University of Tennessee Health Science Center, Memphis, TN 38163, USA.",
+    "annotated_name": "University of Tennessee"
+  },
+  {
+    "listed": "Infection and Immunity Program, Department of Biochemistry and Molecular Biology, Biomedicine Discovery Institute, Monash University, Clayton, VIC 3800, Australia",
+    "annotated_name": "Monash University"
+  },
+  {
+    "listed": "National Heart and Lung Institute, Imperial College London, London SW7 2AZ, UK.",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Department of Infectious Disease, Imperial College London, London, UK.",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology, Anatomy, Physiology and Pharmacology, La Trobe Institute for Molecular Science, La Trobe University, Bundoora, VIC 3086, Australia.",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Anesthesiology, Critical Care, and Pain Medicine, Boston Children's Hospital and Department of Anaesthesia, Harvard Medical School, Boston, MA 02115, USA",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of HostMicrobe Interactions, St. Jude Children's Research Hospital, Memphis, TN 38105, USA",
+    "annotated_name": "St. Jude Children's Research Hospital"
+  },
+  {
+    "listed": "Shanghai Public Health Clinical Centre and Institutes of Biomedical Sciences, Key Laboratory of Medical Molecular Virology of Ministry of Education/Health, Shanghai Medical College, Fudan University, Shanghai 201508, China.",
+    "annotated_name": "Fudan University"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia. ",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Melbourne, Peter Doherty Institute for Infection and Immunity, Melbourne, VIC 3000, Australia",
+    "annotated_name": "University of Melbourne"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Bioimaging Facility, Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Genomics Core Facility, Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Department of Hematology, Erasmus Medical Center Cancer Institute, Rotterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Institute of Biology Leiden, Leiden University, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Electron Microscopy Centre Amsterdam, Medical Biology, Amsterdam University Medical Centre, Amsterdam, the Netherlands.",
+    "annotated_name": "Amsterdam University"
+  },
+  {
+    "listed": "Electron Microscopy Centre Amsterdam, Medical Biology, Amsterdam University Medical Centre, Amsterdam, the Netherlands.",
+    "annotated_name": "Amsterdam University"
+  },
+  {
+    "listed": "The Institute of Chemical Immunology, Leiden Institute of Chemistry, Leiden University, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "The Institute of Chemical Immunology, Leiden Institute of Chemistry, Leiden University, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Division of Gene Regulation, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Department of Immunology, Department of Breast Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, USA.",
+    "annotated_name": "H. Lee Moffitt Cancer Center"
+  },
+  {
+    "listed": "Institute of Biology Leiden, Leiden University, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Montreal Neurological InstituteHospital, McGill University Health Centre and Department of Neurology and Neurosurgery, Faculty of Medicine, McGill University, Montreal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "Department of NeuroOncology, Netherlands Cancer Institute Antoni van Leeuwenhoek, 1066CX Amsterdam, the Netherlands.",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "Leiden Institute of Chemistry, Leiden University, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Center for Proteomics and Metabolomics, Leiden University Medical Center, Leiden, the Netherlands.",
+    "annotated_name": "Leiden University"
+  },
+  {
+    "listed": "Division of Tumour Biology and Immunology, Oncode Institute, The Netherlands Cancer Institute, 1066CX Amsterdam, the Netherlands. ",
+    "annotated_name": "The Netherlands Cancer Institute"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94158, USA.",
+    "annotated_name": "University of California, San Francisco"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158, USA.",
+    "annotated_name": "University of California, San Francisco"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA.",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "State Key Laboratory of Protein and Plant Gene Research, PekingTsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, School of Life Sciences, Peking University, Beijing 100871, P.R. China.",
+    "annotated_name": "Peking University"
+  },
+  {
+    "listed": "Laboratory of Cellular and Structural Biology, The Rockefeller University, New York, NY 10065, USA.",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, NY 10065, USA.",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, NY 10065, USA.",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, NY 10065, USA.",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "State Key Laboratory of Protein and Plant Gene Research, PekingTsinghua Center for Life Sciences, Academy for Advanced Interdisciplinary Studies, School of Life Sciences, Peking University, Beijing 100871, P.R. China.",
+    "annotated_name": "Peking University"
+  },
+  {
+    "listed": "Laboratory of Mass Spectrometry and Gaseous Ion Chemistry, The Rockefeller University, New York, NY 10065, USA.",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Laboratory of Cellular and Structural Biology, The Rockefeller University, New York, NY 10065, USA",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Laboratory of Cellular and Structural Biology, The Rockefeller University, New York, NY 10065, USA. ",
+    "annotated_name": "Rockefeller University"
+  },
+  {
+    "listed": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94158, USA",
+    "annotated_name": "University of California, San Francisco"
+  },
+  {
+    "listed": "School of Biological Sciences, University of California, San Diego, La Jolla, CA 92093, USA",
+    "annotated_name": "University of California, San Diego"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Instituto Nacional de Salud, Lima, Peru.",
+    "annotated_name": "Instituto Nacional de Salud, Lima, Peru"
+  },
+  {
+    "listed": "Instituto Nacional de Salud, Lima, Peru.",
+    "annotated_name": "Instituto Nacional de Salud, Lima, Peru"
+  },
+  {
+    "listed": "Instituto Nacional de Salud, Lima, Peru.",
+    "annotated_name": "Instituto Nacional de Salud, Lima, Peru"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Pathology, Genetic and Evolution, Biological and Natural Sciences Institute, Universidade Federal do Triângulo Mineiro, Uberaba, Brazil.",
+    "annotated_name": "Universidade Federal do Triângulo Mineiro"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "INUBE Extremadura Biosanitary Research Institute, Faculty of Medicine, University of Extremadura, Badajoz, Spain.",
+    "annotated_name": "University of Extremadura"
+  },
+  {
+    "listed": "Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD 21201, USA",
+    "annotated_name": "University of Maryland"
+  },
+  {
+    "listed": "Department of International Health, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA.",
+    "annotated_name": "Johns Hopkins University"
+  },
+  {
+    "listed": "Instituto Nacional de Salud, Lima, Peru",
+    "annotated_name": "Instituto Nacional de Salud, Lima, Peru"
+  },
+  {
+    "listed": "Department of Genetics, Ecology and Evolution, Biological Sciences Institute, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA. ",
+    "annotated_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "listed": "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.",
+    "annotated_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "listed": "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.",
+    "annotated_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "listed": "AMPSeq, Gaithersburg, MD 20879, USA.",
+    "annotated_name": "AMPSeq, Gaithersburg, MD"
+  },
+  {
+    "listed": "Department of General Surgery, Guangzhou First People's Hospital, Guangzhou 510180, Guangdong, China",
+    "annotated_name": "Guangzhou First People's Hospital"
+  },
+  {
+    "listed": "Institute of Clinical Anatomy and Cell Analysis, University of Tübingen, Tübingen 72074, Germany.",
+    "annotated_name": "University of Tübingen"
+  },
+  {
+    "listed": "Department of Pediatric Surgery and Pediatric Urology, University Children's Hospital, Tübingen 72076, Germany.",
+    "annotated_name": "University Children's Hospital, Tübingen"
+  },
+  {
+    "listed": "MaxPlanck Institute for Biology, Tübingen 72076, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "MaxPlanck Institute for Biological Cybernetics, Tübingen 72076, Germany. ",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Nash Family Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA",
+    "annotated_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Medicine, Division of Hematology/Oncology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Medicine, Division of Hematology/Oncology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Medicine, Division of Hematology/Oncology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Pathology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Medicine, Division of Hematology/Oncology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Medicine, Division of Hematology/Oncology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Immunology, Blavatnik Institute, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Medicine, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Cancer Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Tara Miller Melanoma Center, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Tara Miller Melanoma Center, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Institute for Immunology and Immune Health, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Immunology, Blavatnik Institute, Harvard Medical School, Boston, MA, USA",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Immunology, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA",
+    "annotated_name": "University of Pittsburgh"
+  },
+  {
+    "listed": "Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria",
+    "annotated_name": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria"
+  },
+  {
+    "listed": "Cancer Research UK Scotland Centre, Institute of Genetics and Cancer, University of Edinburgh, Edinburgh EH4 2XR, UK",
+    "annotated_name": "University of Edinburgh"
+  },
+  {
+    "listed": "Cancer Genome and Epigenetics Program, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA.",
+    "annotated_name": "Sanford Burnham Prebys Medical Discovery Institute"
+  },
+  {
+    "listed": "IFOM ETS  The AIRC Institute of Molecular Oncology, Milan, Italy",
+    "annotated_name": "The AIRC Institute of Molecular Oncology"
+  },
+  {
+    "listed": "Department of Biochemistry and Molecular Biology, Department of Pediatric and Adolescent Medicine, Robert and Arlene Kogod Center on Aging, Mayo Clinic, 200 First Steet SW, Rochester, MN 55905, USA.",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Blizard Institute, Barts and The London Faculty of Medicine and Dentistry, Queen Mary University of London, 4 Newark Street, London E1 2AT, UK.",
+    "annotated_name": "Queen Mary University of London"
+  },
+  {
+    "listed": "MRC Human Generics Unit, University of Edinburgh, Edinburgh, UK.",
+    "annotated_name": "University of Edinburgh"
+  },
+  {
+    "listed": "Health Research Institute of Santiago de Compostela (IDIS), Santiago de Compostela, Spain",
+    "annotated_name": "Health Research Institute of Santiago de Compostela"
+  },
+  {
+    "listed": "MRC Laboratory of Medical Sciences (LMS), Du Cane Road, London W12 0NN, UK",
+    "annotated_name": "MRC Laboratory of Medical Sciences"
+  },
+  {
+    "listed": "Molecular Carcinogenesis Group, Department of Histology and Embryology, Medical School, National and Kapodistrian University of Athens, 11527 Athens, Greece",
+    "annotated_name": "National and Kapodistrian University of Athens"
+  },
+  {
+    "listed": "Department of Dermatology, Medical University of Vienna, Vienna, Austria",
+    "annotated_name": "Medical University of Vienna"
+  },
+  {
+    "listed": "Research Institute for Microbial Diseases (RIMD), Osaka University, Suita 565-0871, Japan",
+    "annotated_name": "Osaka University"
+  },
+  {
+    "listed": "Institute for Biomedical Aging Research, University of Innsbruck, and Center for Molecular Biosciences Innsbruck (CMBI), Innsbruck, Austria.",
+    "annotated_name": "University of Innsbruck"
+  },
+  {
+    "listed": "Mayo Clinic, Department of Physiology and Biomedical Engineering, Robert and Arlene Kogod Center on Aging, Rochester, MN, USA.",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Kogod Center on Aging and Division of Endocrinology, Mayo Clinic, Rochester, MN, USA.",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Department of Physiology and Biomedical Engineering, Mayo Clinic, Rochester, MN, USA",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Department of Molecular Cell Biology, The Weizmann Institute of Science, 7610001 Rehovot, Israel.",
+    "annotated_name": "The Weizmann Institute of Science"
+  },
+  {
+    "listed": "Department of Cardiovascular Biology and Medicine, Juntendo University Graduate School of Medicine, Tokyo 113-8421, Japan",
+    "annotated_name": "Juntendo University Graduate School of Medicine"
+  },
+  {
+    "listed": "Institute on the Biology of Aging and Metabolism, Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, 6-155 Jackson Hall, 321 Church Street, SE, Minneapolis, MN 55455, USA.",
+    "annotated_name": "University of Minnesota"
+  },
+  {
+    "listed": "Mayo Clinic, Department of Physiology and Biomedical Engineering, Robert and Arlene Kogod Center on Aging, Rochester, MN, USA.",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria",
+    "annotated_name": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria"
+  },
+  {
+    "listed": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria",
+    "annotated_name": "Ludwig Boltzmann Research Group Senescence and Healing of Wounds, 1200 Vienna, Austria"
+  },
+  {
+    "listed": "Institute on the Biology of Aging and Metabolism, Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, 6-155 Jackson Hall, 321 Church Street, SE, Minneapolis, MN 55455, USA.",
+    "annotated_name": "University of Minnesota"
+  },
+  {
+    "listed": "Centre de recherche du Centre hospitalier de l'Université de Montréal (CRCHUM), Montreal, QC, Canada",
+    "annotated_name": "Université de Montréal"
+  },
+  {
+    "listed": "Department f Dermatology and Allergic Diseases, Ulm University Hospital, Albert-Einstein-Allee 23, 89081 Ulm, Germany.",
+    "annotated_name": "Ulm University Hospital"
+  },
+  {
+    "listed": "Department of Molecular, Cellular Biology and Biochemistry, Center on the Biology of Aging, Brown University, Providence, RI, USA.",
+    "annotated_name": "Brown University"
+  },
+  {
+    "listed": "Laboratory of Molecular Bases of Aging, Nencki Institute of Experimental Biology, Polish Academy of Sciences, 02-093 Warsaw, Poland.",
+    "annotated_name": "Polish Academy of Sciences"
+  },
+  {
+    "listed": "The Johns Hopkins University School of Medicine, Department of Molecular and Comparative Pathobiology, Baltimore, MD, USA",
+    "annotated_name": "Johns Hopkins University"
+  },
+  {
+    "listed": "Newcastle University Biosciences Institute, Ageing Biology Laboratories, Newcastle upon Tyne, UK.",
+    "annotated_name": "Newcastle University"
+  },
+  {
+    "listed": "Technische Universität Dresden, CRTD/Center for Regenerative Therapies Dresden, Dresden, Germany",
+    "annotated_name": "Technische Universität Dresden"
+  },
+  {
+    "listed": "Ludwig Boltzmann Institute for Traumatology, The Research Centre in Cooperation with AUVA, 1200 Vienna, Austria",
+    "annotated_name": "Ludwig Boltzmann Institute for Traumatology, The Research Centre in Cooperation with AUVA, 1200 Vienna, Austria"
+  },
+  {
+    "listed": "European Research Institute for the Biology of Ageing (ERIBA), University Medical Center Groningen (UMCG), University of Groningen (RUG), Groningen, the Netherlands. ",
+    "annotated_name": "University of Groningen"
+  },
+  {
+    "listed": "Duke Human Vaccine Institute, Duke University, Durham, NC 27710, USA",
+    "annotated_name": "Duke University"
+  },
+  {
+    "listed": "Duke Human Vaccine Institute, Duke University, Durham, NC 27710, USA",
+    "annotated_name": "Duke University"
+  },
+  {
+    "listed": "Department of Cancer Immunology and Virology, DanaFarber Cancer Institute, Boston, MA, USA",
+    "annotated_name": "DanaFarber Cancer Institute"
+  },
+  {
+    "listed": "Program in Immunology, Harvard Medical School, Boston, MA, USA",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Cancer Immunology and Virology, DanaFarber Cancer Institute, Boston, MA, USA",
+    "annotated_name": "DanaFarber Cancer Institute"
+  },
+  {
+    "listed": "Cancer Biology and Genetics Program, Sloan Kettering Institute, New York, NY 10065, USA.",
+    "annotated_name": "Sloan Kettering Institute"
+  },
+  {
+    "listed": "Cancer Biology and Genetics Program, Sloan Kettering Institute, New York, NY 10065, USA.",
+    "annotated_name": "Sloan Kettering Institute"
+  },
+  {
+    "listed": "National Institute of Chemistry, Hajdrihova 19, 1001 Ljubljana, Slovenia",
+    "annotated_name": "National Institute of Chemistry, Hajdrihova 19, 1001 Ljubljana, Slovenia"
+  },
+  {
+    "listed": "National Institute of Chemistry, Hajdrihova 19, 1001 Ljubljana, Slovenia",
+    "annotated_name": "National Institute of Chemistry, Hajdrihova 19, 1001 Ljubljana, Slovenia"
+  },
+  {
+    "listed": "Cancer Biology and Genetics Program, Sloan Kettering Institute, New York, NY 10065, USA. ",
+    "annotated_name": "Sloan Kettering Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Department of Dermatology, Universitätsklinikum Münster, Münster 48149, Germany.",
+    "annotated_name": "Universitätsklinikum Münster"
+  },
+  {
+    "listed": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology and Allergology IA, Berlin 12203, Germany",
+    "annotated_name": "Fraunhofer Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Cell Biology and Biophysics Unit, European Molecular Biology Laboratory (EMBL), Heidelberg 69117, Germany.",
+    "annotated_name": "European Molecular Biology Laboratory"
+  },
+  {
+    "listed": "Faculty of Pharmaceutical Sciences, Institute of Medical, Pharmaceutical and Health Sciences, Kanazawa University, Kakuma-machi, Kanazawa 920-1192, Japan.",
+    "annotated_name": "Kanazawa University"
+  },
+  {
+    "listed": "Institute of Medical Biochemistry, Center for Molecular Biology of Inflammation (ZMBE), University of Münster, Münster 48149, Germany.",
+    "annotated_name": "University of Münster"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Institute of Nutritional Medicine, University of Hohenheim, Stuttgart 70593, Germany.",
+    "annotated_name": "University of Hohenheim"
+  },
+  {
+    "listed": "Laboratory of Angiogenesis and Vascular Metabolism, Department of Oncology and Leuven Cancer Institute (LKI), KU Leuven, VIB Center for Cancer Biology, VIB, Leuven 3000, Belgium",
+    "annotated_name": "Leuven Cancer Institute"
+  },
+  {
+    "listed": "Department of Biochemistry, Graduate School of Medicine, Juntendo University, Tokyo 113-8421, Japan.",
+    "annotated_name": "Juntendo University Graduate School of Medicine"
+  },
+  {
+    "listed": "Department of Cardiology and Angiology, University Heart Center and Faculty of Medicine, University of Freiburg, Freiburg 79106, Germany.",
+    "annotated_name": "University of Freiburg"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Cell Biology and Biophysics Unit, European Molecular Biology Laboratory (EMBL), Heidelberg 69117, Germany.",
+    "annotated_name": "European Molecular Biology Laboratory"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology and Allergology IA, Berlin 12203, Germany",
+    "annotated_name": "Fraunhofer Institute"
+  },
+  {
+    "listed": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology and Allergology IA, Berlin 12203, Germany",
+    "annotated_name": "Fraunhofer Institute"
+  },
+  {
+    "listed": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology and Allergology IA, Berlin 12203, Germany",
+    "annotated_name": "Fraunhofer Institute"
+  },
+  {
+    "listed": "Department of Dermatology, Universitätsklinikum Münster, Münster 48149, Germany.",
+    "annotated_name": "Universitätsklinikum Münster"
+  },
+  {
+    "listed": "Medical Biology and Electron Microscopy Center, Rostock University Medical Center, Rostock 18057, Germany",
+    "annotated_name": "Rostock University"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany.",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Max Planck Institute of Immunobiology and Epigenetics, Freiburg 79108, Germany",
+    "annotated_name": "Max Planck Institute"
+  },
+  {
+    "listed": "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences and Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, China.",
+    "annotated_name": "Peking University"
+  },
+  {
+    "listed": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA.",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "Department of Cell Biology, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Institute for Cancer Genetics, Department of Pediatrics, and Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA.",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA.",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "Institute for Cancer Genetics, Department of Pediatrics, and Department of Genetics and Development, Columbia University Irving Medical Center, New York, NY 10032, USA.",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "Department of Cell Biology, Harvard Medical School, Boston, MA, USA.",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Biological Sciences, Columbia University, New York, NY 10027, USA.",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences and Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, China. ",
+    "annotated_name": "Peking University"
+  },
+  {
+    "listed": "Howard Hughes Medical Institute, Department of Cell Biology, Harvard Medical School, Boston, MA, USA. ",
+    "annotated_name": "Harvard Medical School"
+  },
+  {
+    "listed": "Department of Biology, University of Copenhagen, Copenhagen 2200, Denmark",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Tokyo Metropolitan Institute of Medical Science, Tokyo 1568506, Japan.",
+    "annotated_name": "Tokyo Metropolitan Institute of Medical Science"
+  },
+  {
+    "listed": "Department of Biology, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Department of Biology, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Department of Biology, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Hubrecht InstituteKNAW & University Medical Center Utrecht, Utrecht, The Netherlands.",
+    "annotated_name": "University Medical Center Utrecht"
+  },
+  {
+    "listed": "Hubrecht InstituteKNAW & University Medical Center Utrecht, Utrecht, The Netherlands.",
+    "annotated_name": "University Medical Center Utrecht"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark.",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Tokyo Metropolitan Institute of Medical Science, Tokyo 1568506, Japan.",
+    "annotated_name": "Tokyo Metropolitan Institute of Medical Science"
+  },
+  {
+    "listed": "Novo Nordisk Foundation Center for Protein Research, University of Copenhagen, Copenhagen 2200, Denmark",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Department of Biology, University of Copenhagen, Copenhagen 2200, Denmark. ",
+    "annotated_name": "University of Copenhagen"
+  },
+  {
+    "listed": "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "California Institute for Quantitative Biosciences (QB3), University of California, Berkeley, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Innovative Genomics Institute, University of California, Berkeley, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Molecular Biology, Princeton University, Princeton, NJ, USA.",
+    "annotated_name": "Princeton University"
+  },
+  {
+    "listed": "Department of Biology and Howard Hughes Medical Institute, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+    "annotated_name": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "listed": "Department of Biology and Howard Hughes Medical Institute, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.",
+    "annotated_name": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA, USA.",
+    "annotated_name": "Stanford University"
+  },
+  {
+    "listed": "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "California Institute for Quantitative Biosciences (QB3), University of California, Berkeley, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Department of Paediatric Immunology and Infectious Diseases, Wilhelmina Children's Hospital/University Medical Center Utrecht, Utrecht, the Netherlands.",
+    "annotated_name": "University Medical Center Utrecht"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands.",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Institute for Risk Assessment Sciences (IRAS), Utrecht University, Utrecht, the Netherlands.",
+    "annotated_name": "Utrecht University"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands. ",
+    "annotated_name": "National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands"
+  },
+  {
+    "listed": "Department of Pharmacy, Center for Regenerative and Aging Medicine, the Fourth Affiliated Hospital of School of Medicine and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, Zhejiang 322000, China",
+    "annotated_name": "Zhejiang University"
+  },
+  {
+    "listed": "Department of Biology and Chemistry, College of Science, National University of Defense Technology, Changsha, Hunan 410073, China",
+    "annotated_name": "National University of Defense Technology"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang 310024, China.",
+    "annotated_name": "Westlake Laboratory"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake Laboratory"
+  },
+  {
+    "listed": "Department of Pharmacy, Center for Regenerative and Aging Medicine, the Fourth Affiliated Hospital of School of Medicine and International School of Medicine, International Institutes of Medicine, Zhejiang University, Yiwu, Zhejiang 322000, China.",
+    "annotated_name": "Zhejiang University"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Department of Biology and Chemistry, College of Science, National University of Defense Technology, Changsha, Hunan 410073, China. ",
+    "annotated_name": "National University of Defense Technology"
+  },
+  {
+    "listed": "Research Center for Life Sciences Computing, Zhejiang Laboratory, Hangzhou, Zhejiang 311100, China. ",
+    "annotated_name": "Zhejiang Laboratory"
+  },
+  {
+    "listed": "Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, School of Medicine and School of Life Sciences, Westlake University, Hangzhou, Zhejiang 310024, China",
+    "annotated_name": "Westlake University"
+  },
+  {
+    "listed": "Infectious Diseases Division, University Hospital Germans Trias, Barcelona, Spain",
+    "annotated_name": "University Hospital Germans Trias"
+  },
+  {
+    "listed": "Infectious Diseases Division, University Hospital Germans Trias, Barcelona, Spain",
+    "annotated_name": "University Hospital Germans Trias"
+  },
+  {
+    "listed": "Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia, Health Department, Generalitat de Catalunya, Barcelona, Spain.",
+    "annotated_name": "Generalitat de Catalunya"
+  },
+  {
+    "listed": "Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia, Health Department, Generalitat de Catalunya, Barcelona, Spain.",
+    "annotated_name": "Generalitat de Catalunya"
+  },
+  {
+    "listed": "HIV Unit, Santa Creu i Sant Pau Hospital, Barcelona, Spain.",
+    "annotated_name": "Santa Creu i Sant Pau Hospital"
+  },
+  {
+    "listed": "Department of Infectious Diseases, Vall d'Hebron University Hospital, Vall d'Hebron Research Institute, Barcelona, Spain.",
+    "annotated_name": "Vall d'Hebron Research Institute"
+  },
+  {
+    "listed": "Department of Internal Medicine, Son Llàtzer Hospital, Palma de Mallorca, Spain.",
+    "annotated_name": "Son Llàtzer Hospital"
+  },
+  {
+    "listed": "HIV and STD Unit, Bellvitge University Hospital, Bellvitge Biomedical Research Institute, Hospitalet de Llobregat, Barcelona, Spain.",
+    "annotated_name": "Hospitalet de Llobregat"
+  },
+  {
+    "listed": "Department of Infectious Diseases, Hospital del MarParc de Salut MAR, Barcelona, Spain",
+    "annotated_name": "Hospital del MarParc de Salut MAR"
+  },
+  {
+    "listed": "Infectious Diseases Department, Parc Taulí Hospital Universitari, Sabadell, Spain.",
+    "annotated_name": "Parc Taulí Hospital Universitari"
+  },
+  {
+    "listed": "Department of Internal Medicine, Hospital Moises Broggi, Sant Joan Despí, Spain.",
+    "annotated_name": "Hospital Moises Broggi"
+  },
+  {
+    "listed": "Department of Internal Medicine, Verge de la Cinta Hospital, Tortosa, Spain.",
+    "annotated_name": "Verge de la Cinta Hospital"
+  },
+  {
+    "listed": "Department of Internal Medicine, Consorci Sanitari del Maresme, Mataró, Spain.",
+    "annotated_name": "Consorci Sanitari del Maresme"
+  },
+  {
+    "listed": "Department of Internal Medicine, Hospital de Palamós, Girona, Spain.",
+    "annotated_name": "Hospital de Palamós"
+  },
+  {
+    "listed": "Department of Internal Medicine, Hospital General de Granollers, Barcelona, Spain.",
+    "annotated_name": "Hospital General de Granollers"
+  },
+  {
+    "listed": "Infectious Diseases Division, University Hospital Germans Trias, Barcelona, Spain",
+    "annotated_name": "University Hospital Germans Trias"
+  },
+  {
+    "listed": "Centro de Investigación Biomédica en Red Enfermedades Infecciosas, Institute of Health Carlos III, Madrid, Spain",
+    "annotated_name": "Institute of Health Carlos III"
+  },
+  {
+    "listed": "Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia, Health Department, Generalitat de Catalunya, Barcelona, Spain.",
+    "annotated_name": "Generalitat de Catalunya"
+  },
+  {
+    "listed": "Centre of Epidemiological Studies of HIV/AIDS and STI of Catalonia, Health Department, Generalitat de Catalunya, Barcelona, Spain",
+    "annotated_name": "Generalitat de Catalunya"
+  },
+  {
+    "listed": "Department of Dermatology, University Hospital La Paz, Madrid, Spain",
+    "annotated_name": "University Hospital La Paz"
+  },
+  {
+    "listed": "Department of Dermatology, University Hospital La Paz, Madrid, Spain",
+    "annotated_name": "University Hospital La Paz"
+  },
+  {
+    "listed": "University of Cape Town, Desmond Tutu HIV Centre, Department of Medicine, Cape Town 7925, South Africa. ",
+    "annotated_name": "University of Cape Town"
+  },
+  {
+    "listed": "Department of Medical Ethics and Health Policy, Perelman School of Medicine, University of Pennsylvania, PA, USA",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "National AIDS, STIs and Hepatitis Control Programme, Ministry of Health, Dodoma, Tanzania.",
+    "annotated_name": "Ministry of Health, Dodoma, Tanzania"
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "Health for a Prosperous Nation, Dar es Salaam, Tanzania.",
+    "annotated_name": "Health for a Prosperous Nation, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA.",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Management and Development for Health, Dar es Salaam, Tanzania.",
+    "annotated_name": "Management and Development for Health, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "Rasello, Dar es Salaam, Tanzania.",
+    "annotated_name": "Rasello, Dar es Salaam, Tanzania."
+  },
+  {
+    "listed": "School of Public Health, University of California, Berkeley, CA, USA. ",
+    "annotated_name": "University of California, Berkeley"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, School of Population and Global Health, McGill University, Montréal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK.",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, School of Population and Global Health, McGill University, Montréal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK.",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Département de Médecine Sociale et Préventive, Université Laval, Québec City, QC, Canada",
+    "annotated_name": "Université Laval"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, School of Population and Global Health, McGill University, Montréal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "Institute for Medical Information Processing, Biometry, and Epidemiology, Medical Faculty, Ludwig-Maximilians-Universität München, Munich, Germany.",
+    "annotated_name": "Ludwig-Maximilians-Universität München"
+  },
+  {
+    "listed": "The UNDPUNFPAUNICEFWHOWorld Bank Special Programme of Research, Development and Research Training in Human Reproduction (HRP), Department of Sexual and Reproductive Health and Research, World Health Organization, Geneva, Switzerland.",
+    "annotated_name": "World Health Organization"
+  },
+  {
+    "listed": "Conselho Nacional de Combate ao HIV/Sida, Maputo, Mozambique.",
+    "annotated_name": "Conselho Nacional de Combate ao HIV/Sida, Maputo, Mozambique."
+  },
+  {
+    "listed": "Department of Disease Control and Environmental Health, School of Public Health, College of Health Sciences, Makerere University, Kampala, Uganda.",
+    "annotated_name": "Makerere University"
+  },
+  {
+    "listed": "MRC Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, School of Population and Global Health, McGill University, Montréal, QC, Canada. ",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "Gertrude H Sergievsky Center, Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center, New York, NY, USA",
+    "annotated_name": "Columbia University"
+  },
+  {
+    "listed": "Family Centre for Research with Ubuntu, Department of Paediatrics and Child Health, Stellenbosch University, Tygerberg Academic Hospital, Cape Town, South Africa.",
+    "annotated_name": "Stellenbosch University"
+  },
+  {
+    "listed": "Research Unit of Clinical Immunology and Vaccinology, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy",
+    "annotated_name": "Bambino Gesù Children's Hospital"
+  },
+  {
+    "listed": "RTI International, Durham, NC, USA.",
+    "annotated_name": "RTI International, Durham, NC"
+  },
+  {
+    "listed": "Department of Paediatrics, University of Oxford, Oxford, UK",
+    "annotated_name": "University of Oxford"
+  },
+  {
+    "listed": "Family Centre for Research with Ubuntu, Department of Paediatrics and Child Health, Stellenbosch University, Tygerberg Academic Hospital, Cape Town, South Africa.",
+    "annotated_name": "Stellenbosch University"
+  },
+  {
+    "listed": "Perinatal HIV Research Unit, Chris Hani Baragwanath Academic Hospital, Faculty of Health Sciences, University of the Witwatersrand, Soweto, South Africa",
+    "annotated_name": "University of the Witwatersrand"
+  },
+  {
+    "listed": "Department of Microbiology and Immunology, University of Miami Miller School of Medicine, Miami, FL, USA.",
+    "annotated_name": "University of Miami"
+  },
+  {
+    "listed": "Africa Health Research Institute, Durban, South Africa.",
+    "annotated_name": "Africa Health Research Institute"
+  },
+  {
+    "listed": "Fundación de Investigación Biomédica, Hospital 12 de Octubre, Instituto de Investigación 12 de Octubre, Madrid, Spain",
+    "annotated_name": "Hospital 12 de Octubre"
+  },
+  {
+    "listed": "Perinatal HIV Research Unit, Chris Hani Baragwanath Academic Hospital, Faculty of Health Sciences, University of the Witwatersrand, Soweto, South Africa",
+    "annotated_name": "University of the Witwatersrand"
+  },
+  {
+    "listed": "Family Centre for Research with Ubuntu, Department of Paediatrics and Child Health, Stellenbosch University, Tygerberg Academic Hospital, Cape Town, South Africa.",
+    "annotated_name": "Stellenbosch University"
+  },
+  {
+    "listed": "Fundação Ariel Glaser contra o SIDA Pediátrico, Maputo, Mozambique.",
+    "annotated_name": "Fundação Ariel Glaser contra o SIDA Pediátrico, Maputo, Mozambique."
+  },
+  {
+    "listed": "Fundação Ariel Glaser contra o SIDA Pediátrico, Maputo, Mozambique.",
+    "annotated_name": "Fundação Ariel Glaser contra o SIDA Pediátrico, Maputo, Mozambique."
+  },
+  {
+    "listed": "Centro de Investigação em Saúde de Manhiç, Maputo, Mozambique.",
+    "annotated_name": "Centro de Investigação em Saúde de Manhiç, Maputo, Mozambique."
+  },
+  {
+    "listed": "Africa Health Research Institute, Durban, South Africa",
+    "annotated_name": "Africa Health Research Institute"
+  },
+  {
+    "listed": "Department of Medical Biology, CHU Gabriel Toure, University of Sciences Techniques and Technologies of Bamako, Bamako, Mali.",
+    "annotated_name": "University of Sciences Techniques and Technologies of Bamako"
+  },
+  {
+    "listed": "Department of Pediatrics and Center of Excellence for Pediatric Infectious Diseases and Vaccines, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand.",
+    "annotated_name": "Chulalongkorn University"
+  },
+  {
+    "listed": "Joint Clinical Research Centre, Kampala, Uganda.",
+    "annotated_name": "Joint Clinical Research Centre, Kampala, Uganda"
+  },
+  {
+    "listed": "Department of Paediatric Infectious Diseases, Imperial College Healthcare NHS Trust, London, UK.",
+    "annotated_name": "Imperial College Healthcare NHS Trust"
+  },
+  {
+    "listed": "Universidad Complutense Madrid, Hospital 12 de Octubre, Instituto de Investigación 12 de Octubre, Madrid, Spain.",
+    "annotated_name": "Universidad Complutense Madrid"
+  },
+  {
+    "listed": "Africa Health Research Institute, Durban, South Africa",
+    "annotated_name": "Africa Health Research Institute"
+  },
+  {
+    "listed": "Department of Infection, Immunity and Inflammation, UCL Great Ormond Street Institute of Child Health, University College London, London, UK.",
+    "annotated_name": "University College London"
+  },
+  {
+    "listed": "Centre for HIV and STIs, National Institutes of Communicable Diseases, National Health Laboratory Service, Johannesburg, South Africa",
+    "annotated_name": "Centre for HIV and STIs, National Institutes of Communicable Diseases, National Health Laboratory Service, Johannesburg, South Africa"
+  },
+  {
+    "listed": "Department of Surgery, Oncology and Gastroenterology, Section of Oncology and Immunology, University of Padua, Padua, Italy.",
+    "annotated_name": "University of Padua"
+  },
+  {
+    "listed": "HIV Pathogenesis Programme, Doris Duke Medical Research Institute, Nelson R Mandela School of Medicine, University of KwaZulu-Natal, Durban, South Africa",
+    "annotated_name": "University of KwaZulu-Natal"
+  },
+  {
+    "listed": "Johns Hopkins University School of Medicine",
+    "annotated_name": "Johns Hopkins University"
+  },
+  {
+    "listed": "Ragon Institute of MGH, MIT and Harvard, Boston, MA, USA",
+    "annotated_name": "Ragon Institute of MGH, MIT and Harvard"
+  },
+  {
+    "listed": "Department of Women's and Children's Health, University of Padua, Padua, Italy.",
+    "annotated_name": "University of Padua"
+  },
+  {
+    "listed": "Research Unit of Clinical Immunology and Vaccinology, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy",
+    "annotated_name": "Bambino Gesù Children's Hospital"
+  },
+  {
+    "listed": "Research Unit of Clinical Immunology and Vaccinology, Bambino Gesù Children's Hospital, IRCCS, Rome, Italy",
+    "annotated_name": "Bambino Gesù Children's Hospital"
+  },
+  {
+    "listed": "Department of Health Behavior, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA",
+    "annotated_name": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "listed": "Technical Advice and Partnerships Department, The Global Fund to Fight AIDS, Tuberculosis and Malaria, Geneva, Switzerland.",
+    "annotated_name": "The Global Fund to Fight AIDS, Tuberculosis and Malaria"
+  },
+  {
+    "listed": "International Association of Providers of AIDS Care, Washington, DC, USA",
+    "annotated_name": "International Association of Providers of AIDS Care, Washington, DC"
+  },
+  {
+    "listed": "CenterLink, Boston, MA, USA.",
+    "annotated_name": "CenterLink, Boston, MA"
+  },
+  {
+    "listed": "European AIDS Treatment Group, Brussels, Belgium.",
+    "annotated_name": "European AIDS Treatment Group"
+  },
+  {
+    "listed": "University of KwaZuluNatal, Durban, South Africa.",
+    "annotated_name": "University of KwaZuluNatal"
+  },
+  {
+    "listed": "New York City Department of Health and Mental Hygiene, New York, NY, USA.",
+    "annotated_name": "New York City Department of Health and Mental Hygiene"
+  },
+  {
+    "listed": "Homerton University, London, UK.",
+    "annotated_name": "Homerton University"
+  },
+  {
+    "listed": "SisterLove, Atlanta, GA, USA.",
+    "annotated_name": "SisterLove, Atlanta, GA"
+  },
+  {
+    "listed": "University of British Columbia, Vancouver, BC, Canada.",
+    "annotated_name": "University of British Columbia"
+  },
+  {
+    "listed": "FastTrack Cities Institute, Washington, DC, USA.",
+    "annotated_name": "FastTrack Cities Institute"
+  },
+  {
+    "listed": "Mumbai District AIDS Control Society, Mumbai, India.",
+    "annotated_name": "Mumbai District AIDS Control Society"
+  },
+  {
+    "listed": "Joint UN Programme on HIV/AIDS, Geneva, Switzerland.",
+    "annotated_name": "Joint UN Programme on HIV/AIDS"
+  },
+  {
+    "listed": "Lagos State AIDS Control Agency, Lagos, Nigeria.",
+    "annotated_name": "Lagos State AIDS Control Agency"
+  },
+  {
+    "listed": "Paris Sans Sida, Paris, France.",
+    "annotated_name": "Paris Sans Sida"
+  },
+  {
+    "listed": "International Treatment Preparedness Coalition, Johannesburg, South Africa.",
+    "annotated_name": "International Treatment Preparedness Coalition, Johannesburg, South Africa."
+  },
+  {
+    "listed": "University of the West Indies, Kingston, Jamaica.",
+    "annotated_name": "University of the West Indies"
+  },
+  {
+    "listed": "University of Zagreb, Zagreb, Croatia.",
+    "annotated_name": "University of Zagreb"
+  },
+  {
+    "listed": "Kenya Medical Research Institute, Nairobi, Kenya",
+    "annotated_name": "Kenya Medical Research Institute, Nairobi, Kenya"
+  },
+  {
+    "listed": "George Washington University, Washington, DC, USA.",
+    "annotated_name": "George Washington University"
+  },
+  {
+    "listed": "Global Action for Trans Equality, New York, NY, USA.",
+    "annotated_name": "Global Action for Trans Equality, New York, NY"
+  },
+  {
+    "listed": "Chicago Department of Public Health, Chicago, IL, USA.",
+    "annotated_name": "Chicago Department of Public Health, Chicago"
+  },
+  {
+    "listed": "Blantyre City Council, Blantyre, Malawi.",
+    "annotated_name": "Blantyre City Council, Blantyre, Malawi."
+  },
+  {
+    "listed": "Georgetown University, Washington, DC, USA.",
+    "annotated_name": "Georgetown University"
+  },
+  {
+    "listed": "Positive Voice, Greece, Athens.",
+    "annotated_name": "Positive Voice, Greece, Athens."
+  },
+  {
+    "listed": "Stop TB Partnership, Geneva, Switzerland.",
+    "annotated_name": "Stop TB Partnership, Geneva"
+  },
+  {
+    "listed": "World Health Organization, Geneva, Switzerland.",
+    "annotated_name": "World Health Organization"
+  },
+  {
+    "listed": "International Association of Providers of AIDS Care, Washington, DC, USA.",
+    "annotated_name": "International Association of Providers of AIDS Care, Washington, DC, USA."
+  },
+  {
+    "listed": "Ministry of Health, City of Buenos Aires, Buenos Aires, Argentina.",
+    "annotated_name": "Ministry of Health, City of Buenos Aires, Buenos Aires, Argentina."
+  },
+  {
+    "listed": "Montefiore University, New York, NY, USA.",
+    "annotated_name": "Montefiore University"
+  },
+  {
+    "listed": "American University, Washington, DC, USA.",
+    "annotated_name": "American University"
+  },
+  {
+    "listed": "Cameroonian Association for the Development and Empowerment of Vulnerable People, Yaoundé, Cameroon.",
+    "annotated_name": "Cameroonian Association for the Development and Empowerment of Vulnerable People, Yaoundé, Cameroon."
+  },
+  {
+    "listed": "Mayor's Office of Health Policy, New Orleans, LA, USA.",
+    "annotated_name": "Mayor's Office of Health Policy, New Orleans, LA, USA."
+  },
+  {
+    "listed": "University of Barcelona, Barcelona, Spain",
+    "annotated_name": "University of Barcelona"
+  },
+  {
+    "listed": "Aidshilfe Wien, Vienna, Austria.",
+    "annotated_name": "Aidshilfe Wien"
+  },
+  {
+    "listed": "Chile Positivo, Metropolitana, Chile.",
+    "annotated_name": "Chile Positivo"
+  },
+  {
+    "listed": "Fenway Institute, Boston, MA, USA",
+    "annotated_name": "Fenway Institute"
+  },
+  {
+    "listed": "The Well Project, Miami, FL, USA.",
+    "annotated_name": "The Well Project, Miami, FL, USA."
+  },
+  {
+    "listed": "Fundación México Vivo, Mexico City, Mexico.",
+    "annotated_name": "Fundación México Vivo, Mexico City, Mexico."
+  },
+  {
+    "listed": "University of Milan, Milan, Italy.",
+    "annotated_name": "University of Milan"
+  },
+  {
+    "listed": "General Directorate of Public Health, Region of Madrid, Madrid, Spain.",
+    "annotated_name": "General Directorate of Public Health, Region of Madrid, Madrid, Spain."
+  },
+  {
+    "listed": "FAQ Health, Hamburg, Germany.",
+    "annotated_name": "FAQ Health, Hamburg, Germany."
+  },
+  {
+    "listed": "UN Human Settlements Programme, Nairobi, Kenya.",
+    "annotated_name": "UN Human Settlements Programme, Nairobi, Kenya."
+  },
+  {
+    "listed": "Nairobi City County Department of Health, Nairobi, Kenya.",
+    "annotated_name": "Nairobi City County Department of Health"
+  },
+  {
+    "listed": "APCOM Foundation, Bangkok, Thailand.",
+    "annotated_name": "APCOM Foundation, Bangkok, Thailand."
+  },
+  {
+    "listed": "Academic Medical Center, Amsterdam, Netherlands.",
+    "annotated_name": "Academic Medical Center, Amsterdam, Netherlands."
+  },
+  {
+    "listed": "Action for Health Initiatives, Quezon City, Philippines.",
+    "annotated_name": "Action for Health Initiatives, Quezon City, Philippines."
+  },
+  {
+    "listed": "Superhumans Center, Kyiv, Ukraine.",
+    "annotated_name": "Superhumans Center, Kyiv, Ukraine."
+  },
+  {
+    "listed": "Thorne Harbour Health, Melbourne, VIC, Australia.",
+    "annotated_name": "Thorne Harbour Health, Melbourne, VIC, Australia."
+  },
+  {
+    "listed": "AIDS Healthcare Foundation, Miami, FL, USA.",
+    "annotated_name": "AIDS Healthcare Foundation, Miami, FL, USA."
+  },
+  {
+    "listed": "San Francisco Community Health Center, San Francisco, CA, USA.",
+    "annotated_name": "San Francisco Community Health Center, San Francisco, CA, USA."
+  },
+  {
+    "listed": "Young Positive Women Voices, Nairobi, Kenya.",
+    "annotated_name": "Young Positive Women Voices, Nairobi, Kenya"
+  },
+  {
+    "listed": "SACEMA, Geneva, Switzerland.",
+    "annotated_name": "SACEMA, Geneva, Switzerland."
+  },
+  {
+    "listed": "Wits Ezintsha, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg 2193, South Africa. ",
+    "annotated_name": "University of the Witwatersrand"
+  },
+  {
+    "listed": "Medical Practice Evaluation Center, Massachusetts General Hospital, Boston, MA, USA",
+    "annotated_name": "Massachusetts General Hospital"
+  },
+  {
+    "listed": "Medicines Patent Pool, Geneva, Switzerland.",
+    "annotated_name": "Medicines Patent Pool, Geneva, Switzerland."
+  },
+  {
+    "listed": "HIV/AIDS Unit, Division of Infectious Diseases, Geneva University Hospitals, Geneva, Switzerland.",
+    "annotated_name": "Geneva University"
+  },
+  {
+    "listed": "Wits Ezintsha, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg 2193, South Africa.",
+    "annotated_name": "University of the Witwatersrand"
+  },
+  {
+    "listed": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Center, Seattle, WA 98109, USA. ",
+    "annotated_name": "Fred Hutchinson Cancer Center, Seattle, WA 98109, USA."
+  },
+  {
+    "listed": "French Embassy, French Ministry of Foreign Affairs, Antananarivo 101, Madagascar. ",
+    "annotated_name": "French Embassy, French Ministry of Foreign Affairs, Antananarivo 101, Madagascar."
+  },
+  {
+    "listed": "Faculty of Medicine, University of Antananarivo, Antananarivo, Madagascar",
+    "annotated_name": "University of Antananarivo"
+  },
+  {
+    "listed": "Faculty of Medicine, University of Antananarivo, Antananarivo, Madagascar",
+    "annotated_name": "University of Antananarivo"
+  },
+  {
+    "listed": "National AIDS Committee, Antananarivo, Madagascar.",
+    "annotated_name": "National AIDS Committee, Antananarivo, Madagascar."
+  },
+  {
+    "listed": "Ministry of Public Health, Antananarivo, Madagascar.",
+    "annotated_name": "Ministry of Public Health, Antananarivo, Madagascar."
+  },
+  {
+    "listed": "French Embassy, French Ministry of Foreign Affairs, Antananarivo 101, Madagascar",
+    "annotated_name": "French Ministry of Foreign Affairs"
+  },
+  {
+    "listed": "Department of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
+    "annotated_name": "University of North Carolina at Chapel Hill"
+  },
+  {
+    "listed": "TUM School of Medicine and Health, Department of Clinical Medicine  Clinical Department for Internal Medicine II, University Medical Centre, Technical University of Munich, Munich, Germany.",
+    "annotated_name": "Technical University of Munich"
+  },
+  {
+    "listed": "Kaiser Permanente, Sacramento, CA, USA.",
+    "annotated_name": "Kaiser Permanente, San Francisco"
+  },
+  {
+    "listed": "Kaiser Permanente, San Francisco, CA, USA.",
+    "annotated_name": "Kaiser Permanente, San Francisco"
+  },
+  {
+    "listed": "Division of Infectious Diseases, University of Miami, Miller School of Medicine, Miami, FL, USA.",
+    "annotated_name": "University of Miami"
+  },
+  {
+    "listed": "Ruane Clinical Research, Los Angeles, CA, USA.",
+    "annotated_name": "Ruane Clinical Research, Los Angeles"
+  },
+  {
+    "listed": "Infectious Diseases Department, Hopitaux SaintLouis Lariboisière, University of Paris and INSERM U944, Paris, France.",
+    "annotated_name": "University of Paris"
+  },
+  {
+    "listed": "Men's Health Foundation, Los Angeles, CA, USA.",
+    "annotated_name": "Men's Health Foundation, Los Angeles, CA, USA."
+  },
+  {
+    "listed": "Central Texas Clinical Research, Austin, TX, USA.",
+    "annotated_name": "Central Texas Clinical Research, Austin, TX, USA."
+  },
+  {
+    "listed": "Midway Research Center, Fort Pierce, FL, USA.",
+    "annotated_name": "Midway Research Center, Fort Pierce, FL, USA."
+  },
+  {
+    "listed": "Royal Sussex County Hospital, University Hospitals Sussex NHS Foundation Trust, Brighton, UK.",
+    "annotated_name": "Royal Sussex County Hospital"
+  },
+  {
+    "listed": "The Crofoot Research Centre, Houston, TX, USA.",
+    "annotated_name": "The Crofoot Research Centre, Houston, TX"
+  },
+  {
+    "listed": "The Research Institute, Springfield, MA, USA.",
+    "annotated_name": "The Research Institute, Springfield, MA"
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA. ",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "Gilead Sciences, Foster City, CA, USA.",
+    "annotated_name": "Gilead Sciences, Foster City, CA, USA. "
+  },
+  {
+    "listed": "University of California San Francisco, San Francisco, CA, USA",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Philadelphia FIGHT Community Health Centres, Philadelphia, PA, USA.",
+    "annotated_name": "Philadelphia FIGHT Community Health Centres, Philadelphia, PA, USA."
+  },
+  {
+    "listed": "The Fenway Institute, Fenway Health, Boston, MA, USA",
+    "annotated_name": "The Fenway Institute, Fenway Health"
+  },
+  {
+    "listed": "Office of HIV/AIDS, US Agency for International Development, Washington, DC, USA. ",
+    "annotated_name": "US Agency for International Development"
+  },
+  {
+    "listed": "Moi University, College of Health Sciences, Eldoret, Kenya",
+    "annotated_name": "Moi University"
+  },
+  {
+    "listed": "Newlands Clinic, Harare, Zimbabwe.",
+    "annotated_name": "Newlands Clinic, Harare, Zimbabwe."
+  },
+  {
+    "listed": "US Centers for Disease Control and Prevention, Atlanta, GA, USA.",
+    "annotated_name": "US Centers for Disease Control and Prevention"
+  },
+  {
+    "listed": "Newlands Clinic, Harare, Zimbabwe.",
+    "annotated_name": "Newlands Clinic, Harare, Zimbabwe."
+  },
+  {
+    "listed": "Moi University, College of Health Sciences, Eldoret, Kenya",
+    "annotated_name": "Moi University"
+  },
+  {
+    "listed": "Kilimanjaro Christian Medical Centre, Moshi, Tanzania.",
+    "annotated_name": "Kilimanjaro Christian Medical Centre, Moshi, Tanzania."
+  },
+  {
+    "listed": "Translational and Clinical Medicine Research Institute, Newcastle University, Newcastle, UK.",
+    "annotated_name": "Newcastle University"
+  },
+  {
+    "listed": "Global Health Security and Diplomacy Bureau, Department of State, Washington, DC, USA.",
+    "annotated_name": "Department of State, Washington, DC, USA."
+  },
+  {
+    "listed": "Medical Research Council Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK. ",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, School of Population and Global Health, Faculty of Medicine and Health Sciences, McGill University, Montreal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "Medical Research Council Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK.",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Centre Population et Développement, Université Paris Cité, Institut de Recherche pour le Développement, Institut National de la Santé et de la Recherche Médicale, Paris, France",
+    "annotated_name": "Université Paris Cité"
+  },
+  {
+    "listed": "Centre Population et Développement, Université Paris Cité, Institut de Recherche pour le Développement, Institut National de la Santé et de la Recherche Médicale, Paris, France.",
+    "annotated_name": "Université Paris Cité"
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Abidjan, Côte d'Ivoire.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Abidjan, Côte d'Ivoire."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Abidjan, Côte d'Ivoire.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Abidjan, Côte d'Ivoire."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Bamako, Mali.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Bamako, Mali."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Bamako, Mali.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Bamako, Mali."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal."
+  },
+  {
+    "listed": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal.",
+    "annotated_name": "Solidarité Thérapeutique et Initiatives pour la Santé, Solthis, Dakar, Senegal."
+  },
+  {
+    "listed": "Faculty of Epidemiology and Population Health, London School of Hygiene & Tropical Medicine, London, UK.",
+    "annotated_name": "London School of Hygiene & Tropical Medicine, London, UK."
+  },
+  {
+    "listed": "Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK.",
+    "annotated_name": "University of Bristol"
+  },
+  {
+    "listed": "Institut National de Santé Publique, Bamako, Mali.",
+    "annotated_name": "Institut National de Santé Publique, Bamako, Mali."
+  },
+  {
+    "listed": "Division de Lutte contre le Sida et les Infections Sexuellement Transmissibles, Ministère de la Santé et de l'Action Sociale Institut d'Hygiène Sociale, Dakar, Senegal.",
+    "annotated_name": "Ministère de la Santé et de l'Action Sociale Institut d'Hygiène Sociale, Dakar, Senegal."
+  },
+  {
+    "listed": "Centre Population et Développement, Université Paris Cité, Institut de Recherche pour le Développement, Institut National de la Santé et de la Recherche Médicale, Paris, France",
+    "annotated_name": " Université Paris Cité"
+  },
+  {
+    "listed": "Medical Research Council Centre for Global Infectious Disease Analysis, School of Public Health, Imperial College London, London, UK. CN  - ATLAS Team",
+    "annotated_name": "Imperial College London"
+  },
+  {
+    "listed": "Population Services International, Cape Town 7806, South Africa. ",
+    "annotated_name": "Population Services International, Cape Town 7806, South Africa."
+  },
+  {
+    "listed": "Clinical Research Department, Faculty of Infectious and Tropical Diseases, London School of Hygiene & Tropical Medicine, Maun, Botswana.",
+    "annotated_name": "London School of Hygiene & Tropical Medicine, Maun, Botswana"
+  },
+  {
+    "listed": "Escola Nacional de Saúde Pública Sergio Arouca, Rio de Janeiro, Brazil. ",
+    "annotated_name": "Escola Nacional de Saúde Pública Sergio Arouca, Rio de Janeiro, Brazil."
+  },
+  {
+    "listed": "Escola Nacional de Saúde Pública Sergio Arouca, Rio de Janeiro, Brazil.",
+    "annotated_name": "Escola Nacional de Saúde Pública Sergio Arouca, Rio de Janeiro, Brazil."
+  },
+  {
+    "listed": "Division of HIV, Infectious Diseases, and Global Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, USA. ",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Division of Prevention Science, Center for AIDS Prevention Studies, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Research and Development, Toxicology Unit, Abbott Laboratories, Claremont, CA, USA.",
+    "annotated_name": "Abbott Laboratories, Claremont, CA"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Division of HIV, Infectious Diseases, and Global Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Department of Epidemiology and Biostatistics, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya.",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "The Desmond Tutu HIV Centre, University of Cape Town, Cape Town, South Africa",
+    "annotated_name": "University of Cape Town"
+  },
+  {
+    "listed": "Division of HIV, Infectious Diseases, and Global Medicine, Department of Medicine, University of California San Francisco, San Francisco, CA, USA.",
+    "annotated_name": "University of California San Francisco"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Center for Clinical Research, Kenya Medical Research Institute, Thika, Kenya",
+    "annotated_name": "Kenya Medical Research Institute"
+  },
+  {
+    "listed": "Liver Unit, Vall d'Hebron University Hospital, Vall d'Hebron Institute for Research, Universitat Autònoma de Barcelona, Spanish Network of Biomedical Research on Liver and Digestive Diseases, Barcelona, Spain. ",
+    "annotated_name": "Universitat Autònoma de Barcelona"
+  },
+  {
+    "listed": "Department of Family Medicine, Faculty of Medicine and Health Sciences, McGill University, Montreal, QC, Canada.",
+    "annotated_name": "McGill University"
+  },
+  {
+    "listed": "Department of Infectious Diseases, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.",
+    "annotated_name": "University of Bern"
+  },
+  {
+    "listed": "Liver Unit, Vall d'Hebron University Hospital, Vall d'Hebron Institute for Research, Universitat Autònoma de Barcelona, Spanish Network of Biomedical Research on Liver and Digestive Diseases, Barcelona, Spain.",
+    "annotated_name": "Universitat Autònoma de Barcelona"
+  },
+  {
+    "listed": "Department of Infectious Diseases, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.",
+    "annotated_name": "University of Bern"
+  },
+  {
+    "listed": "Barcelona Institute for Global Health, Hospital Clínic, University of Barcelona, Barcelona, Spain.",
+    "annotated_name": "University of Barcelona"
+  },
+  {
+    "listed": "Greek Patients Association, Athens, Greece.",
+    "annotated_name": "Greek Patients Association, Athens, Greece."
+  },
+  {
+    "listed": "Modena HIV Metabolic Clinic, Department of Surgical, Medical, Dental and Morphological Sciences, University of Modena and Reggio Emilia, Modena, Italy.",
+    "annotated_name": "University of Modena and Reggio Emilia"
+  },
+  {
+    "listed": "Department for Visceral Surgery and Medicine, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.",
+    "annotated_name": "University of Bern"
+  },
+  {
+    "listed": "Department of Infectious Diseases, Inselspital, Bern University Hospital, University of Bern, Bern, Switzerland.",
+    "annotated_name": "University of Bern"
+  },
+  {
+    "listed": "Division of Liver Diseases, Department of Medicine, Icahn School of Medicine at Mount Sinai, New York NY, USA.",
+    "annotated_name": "Icahn School of Medicine at Mount Sinai"
+  },
+  {
+    "listed": "Infectious Disease Department, Vall d'Hebron University Hospital, Vall d'Hebron Institute for Research, Universitat Autònoma de Barcelona, Spanish Network of Biomedical Research on Liver and Digestive Diseases, Barcelona, Spain.",
+    "annotated_name": "Universitat Autònoma de Barcelona"
+  },
+  {
+    "listed": "Barcelona Institute for Global Health, Hospital Clínic, University of Barcelona, Barcelona, Spain",
+    "annotated_name": "University of Barcelona"
+  },
+  {
+    "listed": "Nature Genetics, . chiara.anania@nature.com.",
+    "annotated_name": "Nature Genetics"
+  },
+  {
+    "listed": "Nature Genetics, . safia.danovi@nature.com.",
+    "annotated_name": "Nature Genetics"
+  },
+  {
+    "listed": "Nature Genetics, . k.vogan@us.nature.com.",
+    "annotated_name": "Nature Genetics"
+  },
+  {
+    "listed": "Nature Genetics, . tiago.faial@us.nature.com.",
+    "annotated_name": "Nature Genetics"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "Geisinger, Danville, PA, USA.",
+    "annotated_name": "Geisinger, Danville, PA, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "Geisinger, Danville, PA, USA.",
+    "annotated_name": "Geisinger, Danville, PA, USA"
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA. CN  - Colorado Center for Precision Medicine CN  - Mayo Clinic Project Generation CN  - Regeneron Genetics Center CN  - University of California Los Angeles ATLAS Collaboration",
+    "annotated_name": ""
+  },
+  {
+    "listed": "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Department of Genetics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.",
+    "annotated_name": "University of Pennsylvania"
+  },
+  {
+    "listed": "Geisinger, Danville, PA, USA.",
+    "annotated_name": "Geisinger, Danville, PA, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Geisinger, Danville, PA, USA.",
+    "annotated_name": "Geisinger, Danville, PA, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA."
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "AncestryDNA, Lehi, UT, USA.",
+    "annotated_name": "AncestryDNA, Lehi, UT, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA. goncalo.abecasis@regeneron.com.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA"
+  },
+  {
+    "listed": "Regeneron Genetics Center, Tarrytown, NY, USA. manuel.ferreira@regeneron.com.",
+    "annotated_name": "Regeneron Genetics Center, Tarrytown, NY, USA"
+  },
+  {
+    "listed": "Department of Cardiovascular Medicine and the Gonda Vascular Center, Mayo Clinic, Rochester, MN, USA. kullo.iftikhar@mayo.edu.",
+    "annotated_name": "Mayo Clinic"
+  },
+  {
+    "listed": "Genomics Research Center, AbbVie, North Chicago, IL, USA. emily.king@abbvie.com.",
+    "annotated_name": "Genomics Research Center, AbbVie, North Chicago, IL, USA."
+  },
+  {
+    "listed": "Center for Plant Cell Biology, Department of Botany and Plant Sciences, University of California, Riverside, Riverside, CA, USA.",
+    "annotated_name": "University of California, Riverside"
+  },
+  {
+    "listed": "Center for Plant Cell Biology, Department of Botany and Plant Sciences, University of California, Riverside, Riverside, CA, USA. serres@ucr.edu.",
+    "annotated_name": "University of California, Riverside"
+  },
+  {
+    "listed": "Institute of Food and Health, University College Dublin, Belfield, DublinD04 V1W8, Ireland.",
+    "annotated_name": "University College Dublin"
+  },
+  {
+    "listed": "Department of Theology and Religious Education (DTRE), De La Salle University, 1004 Taft Avenue, Manila, Philippines.",
+    "annotated_name": "De Salle University"
+  },
+  {
+    "listed": "University of Nevada, Las Vegas School of Public Health, Department of Environmental and Occupational Health, Las Vegas, USA.",
+    "annotated_name": "University of Nevada"
+  },
+  {
+    "listed": "University of Nevada, Las Vegas School of Public Health, Department of Environmental and Occupational Health, Las Vegas, USA.",
+    "annotated_name": "University of Nevada"
+  },
+  {
+    "listed": "University of Nevada, Las Vegas School of Public Health, Department of Epidemiology and Biostatistics, Las Vegas, USA.",
+    "annotated_name": "University of Nevada"
+  },
+  {
+    "listed": "University of Nevada, Las Vegas Lee Business School, Department of Economics, Las Vegas, USA.",
+    "annotated_name": "University of Nevada"
+  },
+  {
+    "listed": "INCAP Research Center for the Prevention of Chronic Diseases, Institute of Nutrition of Central America and Panama, Guatemala City, Guatemala.",
+    "annotated_name": "Institute of Nutrition of Central America and Panama"
+  },
+  {
+    "listed": "INCAP Research Center for the Prevention of Chronic Diseases, Institute of Nutrition of Central America and Panama, Guatemala City, Guatemala.",
+    "annotated_name": "Institute of Nutrition of Central America and Panama"
+  },
+  {
+    "listed": "INCAP Research Center for the Prevention of Chronic Diseases, Institute of Nutrition of Central America and Panama, Guatemala City, Guatemala.",
+    "annotated_name": "Institute of Nutrition of Central America and Panama"
+  },
+  {
+    "listed": "Sciensano, Ixelles, Belgium.",
+    "annotated_name": "Sciensano, Ixelles, Belgium"
+  },
+  {
+    "listed": "Coalition for Americas' Health, CLAS, Dallas, TX, USA.",
+    "annotated_name": "Coalition for Americas' Health, CLAS, Dallas, TX, USA."
+  },
+  {
+    "listed": "Trinity College Dublin, Luce Hall, Pease St, D02 H308Dublin, Ireland.",
+    "annotated_name": "Trinity College Dublin"
+  },
+  {
+    "listed": "School of Health Sciences, University of Tasmania, Newnham Drive, Launceston, 7250 Tasmania, Australia.",
+    "annotated_name": "University of Tasmania"
+  },
+  {
+    "listed": "School of Social Sciences, University of Tasmania, Newnham Drive, Launceston, 7250 Tasmania, Australia.",
+    "annotated_name": "University of Tasmania"
+  },
+  {
+    "listed": "Tasmanian School of Business and Economics, University of Tasmania, Newnham Drive, Launceston, 7250 Tasmania, Australia.",
+    "annotated_name": "University of Tasmania"
+  },
+  {
+    "listed": "School of Health Sciences, University of Tasmania, Newnham Drive, Launceston, 7250 Tasmania, Australia.",
+    "annotated_name": "University of Tasmania"
+  },
+  {
+    "listed": "Department of Nutrition, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais30130-100, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Preventive and Social Medicine, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil.",
+    "annotated_name": "Escola Nacional de Saúde Pública Sergio Arouca"
+  },
+  {
+    "listed": "School of Nutrition, Federal University of Ouro Preto, Ouro Preto, Brazil.",
+    "annotated_name": "Federal University of Ouro Preto"
+  },
+  {
+    "listed": "Institute of Nutrition Josué de Castro, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.",
+    "annotated_name": "Federal University of Rio de Janeiro"
+  },
+  {
+    "listed": "Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil.",
+    "annotated_name": "Escola Nacional de Saúde Pública Sergio Arouca"
+  },
+  {
+    "listed": "Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz, Rio de Janeiro, Brazil.",
+    "annotated_name": "Escola Nacional de Saúde Pública Sergio Arouca"
+  },
+  {
+    "listed": "Department of Social Nutrition, Institute of Nutrition, Rio de Janeiro State University, Rio de Janeiro, Brazil.",
+    "annotated_name": "Rio de Janeiro State University"
+  },
+  {
+    "listed": "Department of Nutrition, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais30130-100, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Nutrition, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais30130-100, Brazil.",
+    "annotated_name": "Universidade Federal de Minas Gerais"
+  },
+  {
+    "listed": "Department of Nutrition, Federal University of Santa Catarina, Florianopolis, Brazil.",
+    "annotated_name": "Federal University of Santa Catarina"
+  },
+  {
+    "listed": "Department of Applied Nutrition, Institute of Nutrition, Rio de Janeiro State University, Rio de Janeiro, Brazil.",
+    "annotated_name": "Rio de Janeiro State University"
+  },
+  {
+    "listed": "School of Public Health, Physiotherapy and Sports Science, University College Dublin, Belfield, Dublin 4, Ireland.",
+    "annotated_name": "University College Dublin"
+  },
+  {
+    "listed": "School of Public Health, Physiotherapy and Sports Science, University College Dublin, Belfield, Dublin 4, Ireland.",
+    "annotated_name": "University College Dublin"
+  },
+  {
+    "listed": "Department of Nutrition and Public Health, Faculty of Health and Sport Science, University of Agder, Universitetsveien 25, Kristiansand, Agder4630, Norway.",
+    "annotated_name": "University of Agder"
+  },
+  {
+    "listed": "Department of Food and Nutrition, and Sport Science, Faculty of Education, University of Gothenburg, Gothenburg, Västra Götaland, Sweden.",
+    "annotated_name": "University of Gothenburg"
+  },
+  {
+    "listed": "Department of Nutrition and Public Health, Faculty of Health and Sport Science, University of Agder, Universitetsveien 25, Kristiansand, Agder4630, Norway.",
+    "annotated_name": "University of Agder"
+  },
+  {
+    "listed": "Deakin University, Institute for Physical Activity and Nutrition, Geelong, VIC, Australia.",
+    "annotated_name": "Deakin University"
+  },
+  {
+    "listed": "Department of Food and Nutrition, and Sport Science, Faculty of Education, University of Gothenburg, Gothenburg, Västra Götaland, Sweden.",
+    "annotated_name": "University of Gothenburg"
+  },
+  {
+    "listed": "Department of Nutrition and Public Health, Faculty of Health and Sport Science, University of Agder, Universitetsveien 25, Kristiansand, Agder4630, Norway.",
+    "annotated_name": "University of Agder"
+  },
+  {
+    "listed": "Department of Nutrition and Public Health, Faculty of Health and Sport Science, University of Agder, Universitetsveien 25, Kristiansand, Agder4630, Norway.",
+    "annotated_name": "University of Agder"
+  }
+]
