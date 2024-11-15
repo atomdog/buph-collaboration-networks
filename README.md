@@ -1,1 +1,1 @@
-# buph-collaborationnetworks
+# buph-collaboration-networks
