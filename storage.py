@@ -9,7 +9,7 @@ cursor = conn.cursor()
 def instantiate():
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS Articles (
-        article_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        articleID TEXT PRIMARY KEY,
         articleTitle TEXT,
         journalTitle TEXT,
         datePublished TEXT,
@@ -39,22 +39,22 @@ def instantiate():
     # Create ArticleAuthors Table (many-to-many relationship)
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS ArticleAuthors (
-        article_id INTEGER,
+        articleID TEXT,
         author_id INTEGER,
         department_id INTEGER,
-        FOREIGN KEY (article_id) REFERENCES Articles(article_id),
+        FOREIGN KEY (articleID) REFERENCES Articles(articleID),
         FOREIGN KEY (author_id) REFERENCES Authors(author_id),
         FOREIGN KEY (department_id) REFERENCES Departments(department_id)
     )
     ''')
 
-def insert_article(articleTitle, journalTitle, datePublished, abstract, grants):
+def insert_article(articleID, articleTitle, journalTitle, datePublished, abstract, grants):
     cursor.execute('''
-    INSERT INTO Articles (articleTitle, journalTitle, datePublished, abstract, grants)
-    VALUES (?, ?, ?, ?, ?)
-    ''', (articleTitle, journalTitle, datePublished, abstract, grants))
+    INSERT INTO Articles (articleID, articleTitle, journalTitle, datePublished, abstract, grants)
+    VALUES (?, ?, ?, ?, ?, ?)
+    ''', (articleID, articleTitle, journalTitle, datePublished, abstract, grants))
     conn.commit()
-    return cursor.lastrowid
+    return articleID
 
 def insert_author(authorName):
     cursor.execute('''
@@ -72,13 +72,12 @@ def insert_department(departmentName, latitude, longitude):
     conn.commit()
     return cursor.lastrowid
 
-def tie_article_author_department(article_id, author_id, department_id):
+def tie_article_author_department(articleID, author_id, department_id):
     cursor.execute('''
-    INSERT INTO ArticleAuthors (article_id, author_id, department_id)
+    INSERT INTO ArticleAuthors (articleID, author_id, department_id)
     VALUES (?, ?, ?)
-    ''', (article_id, author_id, department_id))
+    ''', (articleID, author_id, department_id))
     conn.commit()
-    return cursor.lastrowid
 
 # Retrieve all articles
 def retrieve_all_articles():
@@ -86,8 +85,8 @@ def retrieve_all_articles():
     return cursor.fetchall()
 
 # Retrieve article by ID
-def retrieve_article_by_id(article_id):
-    cursor.execute('SELECT * FROM Articles WHERE article_id = ?', (article_id,))
+def retrieve_article_by_id(articleID):
+    cursor.execute('SELECT * FROM Articles WHERE articleID = ?', (articleID,))
     return cursor.fetchone()
 
 # Retrieve all authors
@@ -113,39 +112,39 @@ def retrieve_department_by_id(department_id):
 # Retrieve all articles by a specific author
 def retrieve_articles_by_author(author_id):
     cursor.execute('''
-    SELECT a.article_id, a.articleTitle, a.journalTitle, a.datePublished, a.abstract
+    SELECT a.articleID, a.articleTitle, a.journalTitle, a.datePublished, a.abstract
     FROM Articles a
-    JOIN ArticleAuthors aa ON a.article_id = aa.article_id
+    JOIN ArticleAuthors aa ON a.articleID = aa.articleID
     WHERE aa.author_id = ?
     ''', (author_id,))
     return cursor.fetchall()
 
 # Retrieve all authors of a specific article
-def retrieve_authors_by_article(article_id):
+def retrieve_authors_by_article(articleID):
     cursor.execute('''
     SELECT au.author_id, au.authorName
     FROM Authors au
     JOIN ArticleAuthors aa ON au.author_id = aa.author_id
-    WHERE aa.article_id = ?
-    ''', (article_id,))
+    WHERE aa.articleID = ?
+    ''', (articleID,))
     return cursor.fetchall()
 
 # Retrieve all departments associated with a specific article
-def retrieve_departments_by_article(article_id):
+def retrieve_departments_by_article(articleID):
     cursor.execute('''
     SELECT d.department_id, d.departmentName, d.latitude, d.longitude
     FROM Departments d
     JOIN ArticleAuthors aa ON d.department_id = aa.department_id
-    WHERE aa.article_id = ?
-    ''', (article_id,))
+    WHERE aa.articleID = ?
+    ''', (articleID,))
     return cursor.fetchall()
 
 # Retrieve all articles associated with a specific department
 def retrieve_articles_by_department(department_id):
     cursor.execute('''
-    SELECT a.article_id, a.articleTitle, a.journalTitle, a.datePublished, a.abstract, a.grants
+    SELECT a.articleID, a.articleTitle, a.journalTitle, a.datePublished, a.abstract, a.grants
     FROM Articles a
-    JOIN ArticleAuthors aa ON a.article_id = aa.article_id
+    JOIN ArticleAuthors aa ON a.articleID = aa.articleID
     WHERE aa.department_id = ?
     ''', (department_id,))
     return cursor.fetchall()
@@ -199,10 +198,10 @@ def get_departments_within_radius(center_lat, center_lon, radius):
 # Retrieve all shared articles between departments along with the journal title
 def get_article_department_links():
     cursor.execute('''
-    SELECT DISTINCT aa1.department_id, aa2.department_id, aa1.article_id, a.journalTitle
+    SELECT DISTINCT aa1.department_id, aa2.department_id, aa1.articleID, a.journalTitle
     FROM ArticleAuthors aa1
-    JOIN ArticleAuthors aa2 ON aa1.article_id = aa2.article_id
-    JOIN Articles a ON aa1.article_id = a.article_id
+    JOIN ArticleAuthors aa2 ON aa1.articleID = aa2.articleID
+    JOIN Articles a ON aa1.articleID = a.articleID
     WHERE aa1.department_id != aa2.department_id
     ''')
     return cursor.fetchall()
@@ -245,8 +244,8 @@ def remove_invalid_coordinates():
         # Optionally, remove articles without any authors (if needed)
         cursor.execute('''
         DELETE FROM Articles
-        WHERE article_id NOT IN (
-            SELECT DISTINCT article_id
+        WHERE articleID NOT IN (
+            SELECT DISTINCT articleID
             FROM ArticleAuthors
         )
         ''')

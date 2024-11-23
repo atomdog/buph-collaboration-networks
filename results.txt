@@ -1,33 +1,31 @@
-['School of Biological and Population Health Sciences, Oregon State University, Corvallis, Oregon, USA.']
-0
-[]
+Departments with the Lowest Reachability
 ['Health & Exercise Sciences, College of Nursing and Health Sciences, Flinders University, Adelaide, Australia.']
-2
+Papers: 2
 ['Cell', 'Cell']
 ["Institute of Molecular Biology & Translational Medicine, The Affiliated People's Hospital, Jiangsu University, No. 8 Dianli Road, Zhenjiang, Jiangsu, China."]
-2
+Papers: 2
 ['Cell', 'Cell']
 ['University for Development Studies, School of Allied Health Sciences, P O Box 1883, Tamale, Ghana.']
-18
+Papers: 18
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['Food Science and Nutrition, Department of Health Sciences, Central Washington University, 400 E University Way, Ellensburg, WA98926, USA.']
-18
+Papers: 18
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['Biology Department, Boston College, Chestnut Hill, MA, USA.']
-18
+Papers: 18
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['Nature Genetics, . petra.gross@nature.com.'
  'Nature Genetics, . wei.li@nature.com.']
-18
+Papers: 18
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['Frontier Science Foundation, Brookline, MA, USA.']
-20
+Papers: 20
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['Janssen Research & Development, Beerse, Belgium.']
-24
+Papers: 24
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
 ['GSK, Collegeville, PA, USA.' 'GlaxoSmithKline, Collegeville, PA, USA.']
-24
+Papers: 24
 ['Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell', 'Cell']
-Selection deleted
+
 
